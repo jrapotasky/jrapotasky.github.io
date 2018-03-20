@@ -1,4 +1,5 @@
-header {
+div#topBar {
+  margin: 0 auto;
   width: 100%;
-  background-image: url('/imgs/Fountain.jpg');
+  background:url('../imgs/Fountain.jpg') repeat-x 0 0;
 }
